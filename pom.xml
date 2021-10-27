@@ -10,14 +10,14 @@
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
-	<name>IDE - UI - Jobs</name>
-	<artifactId>dirigible-ide-ui-jobs</artifactId>
+	<name>IDE - UI - Jobs - Menu</name>
+	<artifactId>dirigible-ide-ui-jobs-menu</artifactId>
     <packaging>pom</packaging>
 
 	<properties>
 		<profile.content.phase>generate-sources</profile.content.phase> 
-		<content.repository.name>ide-jobs</content.repository.name>
-		<content.project.name>ide-jobs</content.project.name>
+		<content.repository.name>ide-jobs-menu</content.repository.name>
+		<content.project.name>ide-jobs-menu</content.project.name>
 
 		<license.header.location>../../../licensing-header.txt</license.header.location>
 	</properties>
